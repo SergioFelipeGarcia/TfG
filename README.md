@@ -53,4 +53,4 @@ Esta práctica demostró que el desarrollo de bajo código no solo acelera el pr
 * **Tutor del Proyecto:** Carmelo Escribano
 
 ---
-Si necesitas cualquier otra modificación o información adicional, no dudes en consultarme.
+
